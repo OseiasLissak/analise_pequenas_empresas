@@ -1,0 +1,301 @@
+data,produto,quantidade,valor
+2024-07-15,Suporte Veicular,79,28.34
+2024-06-08,Carregador Portátil,40,68.24
+2024-07-15,Carregador Portátil,74,57.62
+2024-05-30,Película de Vidro,77,93.19
+2024-07-12,Película de Anti Reflexo,54,65.36
+2024-07-07,Fone de Ouvido Bluetooth,92,15.44
+2024-06-01,Película de Gel,2,77.03
+2024-07-18,Fone de Ouvido,78,45.75
+2024-06-21,Carregador Turbo,12,86.16
+2024-06-28,Película de Gel,34,51.12
+2024-07-09,Caixa de Som Bluetooth,90,18.96
+2024-07-11,Carregador Portátil,64,21.58
+2024-07-16,Caixa de Som Bluetooth,8,39.46
+2024-06-05,Capinha de Silicone,75,56.16
+2024-08-27,Fone de Ouvido,69,44.4
+2024-07-07,Fone de Ouvido Bluetooth,65,35.96
+2024-08-13,Película de Gel,87,11.6
+2024-06-08,Película de Gel,68,64.45
+2024-08-07,Suporte Veicular,85,75.27
+2024-06-13,Fone de Ouvido,3,84.2
+2024-06-21,Carregador Portátil,56,81.17
+2024-08-07,Película de Vidro,33,68.11
+2024-06-19,Carregador Portátil,57,16.13
+2024-08-08,Suporte Veicular,14,54.33
+2024-08-12,Película de Vidro,86,24.04
+2024-08-03,Fone de Ouvido Bluetooth,82,65.16
+2024-08-05,Fone de Ouvido Bluetooth,73,52.68
+2024-06-05,Carregador Portátil,3,43.27
+2024-07-23,Suporte Veicular,38,98.98
+2024-07-15,Película de Gel,80,75.59
+2024-08-24,Capinha de Silicone,86,61.95
+2024-08-14,Suporte Veicular,29,40.29
+2024-07-22,Película de Vidro,73,72.05
+2024-07-02,Capinha de Silicone,16,47.16
+2024-07-26,Capinha de Silicone,54,61.35
+2024-07-29,Película de Anti Reflexo,30,70.32
+2024-07-13,Fone de Ouvido,58,39.71
+2024-06-02,Carregador Portátil,84,27.53
+2024-08-22,Caixa de Som Bluetooth,47,43.38
+2024-07-29,Carregador indutivo,9,91.26
+2024-07-27,Película de Anti Reflexo,59,14.93
+2024-08-17,Suporte Veicular,17,78.53
+2024-06-18,Suporte Veicular,88,61.04
+2024-06-19,Caixa de Som Bluetooth,18,36.31
+2024-07-05,Carregador Portátil,95,61.23
+2024-08-10,Suporte Veicular,14,93.95
+2024-08-26,Carregador Turbo,93,10.43
+2024-06-11,Carregador Turbo,17,11.85
+2024-08-25,Película de Anti Reflexo,60,29.27
+2024-07-06,Fone de Ouvido Bluetooth,28,43.05
+2024-06-04,Película de Anti Reflexo,29,44.14
+2024-06-14,Película de Gel,86,68.93
+2024-08-03,Carregador indutivo,85,34.1
+2024-06-11,Carregador Turbo,18,56.84
+2024-07-08,Carregador Portátil,2,35.73
+2024-06-30,Carregador Turbo,56,58.21
+2024-07-29,Capinha de Silicone,66,57.92
+2024-08-22,Fone de Ouvido,84,24.99
+2024-08-03,Carregador Portátil,11,61.08
+2024-07-25,Carregador Turbo,26,47.97
+2024-08-02,Película de Gel,19,75.46
+2024-06-19,Fone de Ouvido Bluetooth,80,14.97
+2024-07-04,Carregador Turbo,54,73.91
+2024-08-17,Película de Vidro,44,45.78
+2024-07-03,Fone de Ouvido,35,59.96
+2024-06-17,Caixa de Som Bluetooth,19,75.18
+2024-08-08,Película de Anti Reflexo,11,26.67
+2024-06-22,Fone de Ouvido Bluetooth,8,88.16
+2024-06-27,Suporte Veicular,47,25.9
+2024-08-04,Capinha de Silicone,16,55.73
+2024-07-08,Carregador Turbo,83,91.54
+2024-07-23,Carregador Turbo,1,43.11
+2024-07-16,Carregador indutivo,85,56.73
+2024-08-17,Capinha de Silicone,94,76.39
+2024-06-10,Carregador Portátil,86,40.55
+2024-06-27,Fone de Ouvido,10,67.46
+2024-06-08,Suporte Veicular,66,52.58
+2024-06-03,Carregador indutivo,27,50.79
+2024-08-04,Suporte Veicular,25,70.4
+2024-08-07,Carregador indutivo,76,15.12
+2024-07-06,Suporte Veicular,2,83.32
+2024-06-19,Suporte Veicular,25,77.94
+2024-06-17,Película de Anti Reflexo,32,38.85
+2024-06-21,Suporte Veicular,43,74.0
+2024-07-23,Suporte Veicular,78,45.47
+2024-07-16,Fone de Ouvido Bluetooth,22,94.29
+2024-08-11,Película de Anti Reflexo,4,14.99
+2024-06-01,Película de Vidro,65,13.14
+2024-08-15,Fone de Ouvido Bluetooth,19,50.25
+2024-08-27,Capinha de Silicone,87,81.52
+2024-07-24,Caixa de Som Bluetooth,21,77.42
+2024-07-01,Película de Gel,23,63.04
+2024-07-16,Carregador Portátil,41,14.05
+2024-06-03,Fone de Ouvido,57,99.24
+2024-07-26,Capinha de Silicone,61,63.0
+2024-08-13,Capinha de Silicone,64,75.59
+2024-07-10,Carregador Turbo,59,17.57
+2024-08-17,Carregador Portátil,87,71.95
+2024-06-30,Carregador Portátil,13,31.78
+2024-07-18,Fone de Ouvido Bluetooth,8,40.62
+2024-05-29,Película de Anti Reflexo,70,79.51
+2024-08-15,Fone de Ouvido Bluetooth,4,43.62
+2024-06-06,Fone de Ouvido Bluetooth,94,19.3
+2024-08-10,Carregador indutivo,37,26.19
+2024-08-01,Película de Vidro,68,67.82
+2024-07-09,Película de Gel,80,57.01
+2024-07-02,Suporte Veicular,49,44.41
+2024-07-24,Caixa de Som Bluetooth,9,28.2
+2024-06-17,Fone de Ouvido Bluetooth,62,89.21
+2024-06-11,Carregador indutivo,8,40.02
+2024-08-17,Fone de Ouvido,23,10.99
+2024-06-25,Fone de Ouvido,50,20.34
+2024-07-07,Película de Gel,68,68.86
+2024-08-16,Carregador indutivo,78,40.2
+2024-07-04,Película de Vidro,79,82.26
+2024-06-24,Fone de Ouvido,69,15.8
+2024-07-29,Capinha de Silicone,32,31.37
+2024-07-24,Fone de Ouvido,49,51.4
+2024-06-05,Película de Anti Reflexo,44,53.71
+2024-08-15,Suporte Veicular,19,78.86
+2024-06-27,Carregador Turbo,15,59.79
+2024-06-15,Fone de Ouvido Bluetooth,62,40.72
+2024-06-06,Carregador Turbo,52,56.96
+2024-08-01,Suporte Veicular,90,63.08
+2024-06-22,Película de Anti Reflexo,54,37.71
+2024-07-27,Carregador indutivo,70,62.11
+2024-07-06,Película de Anti Reflexo,5,36.74
+2024-06-22,Carregador Turbo,35,87.57
+2024-06-19,Película de Vidro,81,48.07
+2024-07-19,Carregador Portátil,11,63.26
+2024-08-10,Película de Vidro,10,16.25
+2024-08-09,Suporte Veicular,62,60.28
+2024-07-27,Película de Gel,24,13.76
+2024-08-03,Película de Vidro,13,18.92
+2024-07-11,Caixa de Som Bluetooth,72,52.66
+2024-07-29,Carregador Portátil,9,13.86
+2024-07-15,Fone de Ouvido Bluetooth,55,87.3
+2024-06-14,Película de Gel,71,22.48
+2024-05-30,Película de Vidro,86,57.98
+2024-07-21,Película de Gel,62,57.22
+2024-07-15,Película de Gel,41,42.42
+2024-07-06,Película de Anti Reflexo,83,19.2
+2024-08-18,Película de Anti Reflexo,61,83.85
+2024-06-08,Carregador Turbo,73,41.8
+2024-07-31,Película de Vidro,8,40.14
+2024-08-25,Capinha de Silicone,92,70.24
+2024-07-19,Suporte Veicular,50,99.44
+2024-06-30,Caixa de Som Bluetooth,20,99.0
+2024-06-14,Caixa de Som Bluetooth,100,75.42
+2024-07-11,Fone de Ouvido Bluetooth,80,39.74
+2024-06-21,Capinha de Silicone,14,67.0
+2024-06-29,Capinha de Silicone,36,97.78
+2024-07-27,Película de Gel,73,81.6
+2024-06-15,Película de Gel,42,42.01
+2024-07-21,Fone de Ouvido,31,31.02
+2024-06-22,Película de Anti Reflexo,26,38.84
+2024-05-31,Carregador Portátil,18,65.61
+2024-05-31,Carregador Turbo,7,85.37
+2024-08-12,Suporte Veicular,57,47.7
+2024-06-29,Caixa de Som Bluetooth,24,39.47
+2024-08-04,Película de Vidro,63,66.84
+2024-07-05,Carregador Turbo,64,13.34
+2024-07-16,Película de Anti Reflexo,68,22.35
+2024-08-02,Fone de Ouvido,82,21.23
+2024-07-08,Película de Gel,78,70.8
+2024-06-19,Carregador Turbo,66,61.19
+2024-06-08,Fone de Ouvido Bluetooth,72,99.34
+2024-08-22,Película de Anti Reflexo,3,77.39
+2024-07-30,Carregador indutivo,99,89.14
+2024-06-28,Carregador Portátil,81,16.34
+2024-08-21,Suporte Veicular,59,25.96
+2024-07-21,Suporte Veicular,43,51.71
+2024-07-19,Fone de Ouvido Bluetooth,12,48.22
+2024-07-08,Caixa de Som Bluetooth,90,86.57
+2024-08-05,Fone de Ouvido Bluetooth,43,47.63
+2024-07-22,Capinha de Silicone,7,15.34
+2024-06-14,Capinha de Silicone,82,34.92
+2024-06-25,Carregador indutivo,57,22.21
+2024-07-24,Carregador Portátil,50,80.46
+2024-07-17,Carregador Turbo,64,93.45
+2024-06-18,Carregador Portátil,24,38.51
+2024-08-25,Carregador Portátil,80,59.51
+2024-08-25,Carregador indutivo,4,76.26
+2024-08-09,Carregador Turbo,23,25.46
+2024-08-27,Película de Anti Reflexo,85,85.0
+2024-07-26,Película de Anti Reflexo,81,20.7
+2024-06-28,Carregador Turbo,82,69.14
+2024-07-21,Fone de Ouvido,20,79.46
+2024-08-02,Suporte Veicular,47,34.87
+2024-08-20,Caixa de Som Bluetooth,51,69.79
+2024-08-18,Película de Gel,73,76.07
+2024-06-19,Película de Vidro,80,34.89
+2024-08-02,Capinha de Silicone,58,16.06
+2024-08-15,Fone de Ouvido Bluetooth,64,88.64
+2024-07-06,Fone de Ouvido,91,19.15
+2024-06-25,Capinha de Silicone,45,88.23
+2024-08-27,Caixa de Som Bluetooth,1,74.48
+2024-06-19,Capinha de Silicone,6,92.32
+2024-07-16,Película de Anti Reflexo,18,29.59
+2024-07-08,Suporte Veicular,16,22.97
+2024-08-14,Película de Vidro,81,80.21
+2024-06-11,Película de Gel,24,69.53
+2024-07-03,Carregador Portátil,63,59.73
+2024-07-17,Fone de Ouvido,14,37.04
+2024-07-02,Suporte Veicular,31,93.37
+2024-07-12,Película de Anti Reflexo,93,64.41
+2024-06-25,Carregador Turbo,97,87.27
+2024-06-20,Película de Anti Reflexo,89,59.83
+2024-06-11,Carregador Portátil,16,25.0
+2024-08-08,Carregador Turbo,90,10.18
+2024-06-13,Caixa de Som Bluetooth,18,62.84
+2024-06-30,Carregador Turbo,26,18.62
+2024-06-07,Fone de Ouvido Bluetooth,87,50.47
+2024-07-17,Película de Vidro,43,74.18
+2024-07-24,Fone de Ouvido Bluetooth,47,97.04
+2024-06-08,Película de Gel,6,22.09
+2024-08-22,Capinha de Silicone,40,91.81
+2024-06-19,Película de Gel,54,17.15
+2024-06-29,Caixa de Som Bluetooth,86,78.79
+2024-07-25,Suporte Veicular,62,80.21
+2024-08-10,Película de Gel,68,77.27
+2024-07-01,Carregador Portátil,93,42.53
+2024-06-22,Capinha de Silicone,46,59.16
+2024-08-08,Fone de Ouvido Bluetooth,9,50.63
+2024-07-29,Fone de Ouvido,18,56.24
+2024-07-31,Película de Anti Reflexo,45,19.83
+2024-07-15,Carregador indutivo,30,19.18
+2024-06-02,Carregador Turbo,96,76.55
+2024-06-30,Película de Anti Reflexo,68,45.06
+2024-08-24,Caixa de Som Bluetooth,75,43.5
+2024-06-14,Carregador Portátil,72,95.79
+2024-08-24,Capinha de Silicone,94,29.27
+2024-08-20,Película de Vidro,49,33.57
+2024-07-11,Carregador Turbo,86,62.87
+2024-07-10,Carregador Portátil,10,95.02
+2024-08-08,Fone de Ouvido Bluetooth,92,64.26
+2024-08-23,Capinha de Silicone,58,97.4
+2024-08-17,Fone de Ouvido,50,63.98
+2024-08-23,Película de Vidro,24,95.46
+2024-08-17,Película de Gel,77,97.35
+2024-06-03,Película de Anti Reflexo,2,83.5
+2024-07-22,Película de Gel,15,18.6
+2024-06-30,Capinha de Silicone,32,95.43
+2024-08-23,Carregador indutivo,98,28.64
+2024-08-18,Película de Vidro,94,41.02
+2024-06-30,Suporte Veicular,61,59.99
+2024-06-16,Suporte Veicular,97,30.45
+2024-06-11,Carregador indutivo,13,39.9
+2024-07-19,Fone de Ouvido Bluetooth,6,90.65
+2024-06-09,Fone de Ouvido Bluetooth,65,23.2
+2024-06-23,Película de Gel,78,99.02
+2024-05-30,Fone de Ouvido Bluetooth,8,92.23
+2024-06-23,Fone de Ouvido,36,87.23
+2024-06-28,Carregador Portátil,40,37.95
+2024-08-01,Carregador indutivo,83,89.12
+2024-06-08,Carregador Portátil,44,76.01
+2024-08-09,Película de Gel,18,83.4
+2024-06-22,Caixa de Som Bluetooth,69,15.9
+2024-08-03,Película de Anti Reflexo,62,28.47
+2024-06-25,Suporte Veicular,36,74.94
+2024-07-17,Capinha de Silicone,65,50.27
+2024-07-22,Carregador Turbo,88,91.25
+2024-07-26,Carregador Portátil,17,68.39
+2024-07-08,Fone de Ouvido,93,54.97
+2024-06-12,Caixa de Som Bluetooth,97,28.03
+2024-08-18,Carregador Portátil,65,99.61
+2024-07-17,Película de Anti Reflexo,9,77.34
+2024-08-26,Capinha de Silicone,69,19.27
+2024-08-08,Carregador indutivo,62,19.88
+2024-08-08,Capinha de Silicone,74,11.62
+2024-05-30,Carregador Portátil,29,61.9
+2024-07-27,Suporte Veicular,30,25.7
+2024-07-26,Caixa de Som Bluetooth,32,81.62
+2024-07-14,Suporte Veicular,90,35.55
+2024-07-11,Carregador indutivo,92,55.26
+2024-08-19,Suporte Veicular,72,76.43
+2024-08-11,Suporte Veicular,16,23.88
+2024-06-11,Capinha de Silicone,3,88.57
+2024-07-07,Carregador Portátil,20,52.09
+2024-06-12,Fone de Ouvido Bluetooth,47,67.44
+2024-06-27,Carregador indutivo,55,51.58
+2024-06-27,Fone de Ouvido Bluetooth,98,95.15
+2024-06-16,Capinha de Silicone,87,11.25
+2024-07-16,Suporte Veicular,90,54.29
+2024-08-24,Película de Anti Reflexo,70,16.81
+2024-07-20,Fone de Ouvido Bluetooth,82,93.63
+2024-06-05,Caixa de Som Bluetooth,88,43.8
+2024-08-11,Suporte Veicular,5,68.87
+2024-06-18,Suporte Veicular,83,85.33
+2024-07-09,Carregador indutivo,11,82.57
+2024-06-16,Carregador Portátil,19,84.81
+2024-06-25,Carregador Portátil,1,40.19
+2024-06-20,Capinha de Silicone,84,39.78
+2024-08-13,Carregador Turbo,63,82.54
+2024-06-24,Carregador indutivo,28,86.46
+2024-05-29,Caixa de Som Bluetooth,51,85.28
+2024-07-06,Película de Anti Reflexo,5,44.76
+2024-07-27,Fone de Ouvido Bluetooth,3,39.56
+2024-07-20,Capinha de Silicone,2,31.53
+2024-06-24,Película de Vidro,96,60.76
